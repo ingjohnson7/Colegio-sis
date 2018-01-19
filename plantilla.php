@@ -155,7 +155,7 @@ class plantilla extends conn
 {
 
 
-  function HEAD($title="Sistema de colegio")
+  function HEAD($title="Admin de colegio")
   {
     echo "<title>$title</title></head><body>";
     
